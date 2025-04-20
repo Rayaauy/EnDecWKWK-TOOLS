@@ -49,23 +49,6 @@ python encrypt_decrypt.py
 
 Ikuti petunjuk pada menu interaktif untuk memilih metode enkripsi/dekripsi yang diinginkan.
 
-📸 Contoh Tampilan
-
-╔════════════════════════════════════════════════════════════════╗
-║                     ENCRYPTION & DECRYPTION TOOLS              ║
-╠════════════════════════════════════════════════════════════════╣
-║ 1. Caesar Cipher                                               ║
-║ 2. Vigenère Cipher                                             ║
-║ 3. Base64 Encoding/Decoding                                    ║
-║ 4. XOR Cipher                                                  ║
-║ 5. AES Encryption/Decryption                                   ║
-║ 0. Exit                                                        ║
-╚════════════════════════════════════════════════════════════════╝
-
-📄 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
-
 🙋‍♂️ Kontak
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut:
