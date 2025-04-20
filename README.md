@@ -1,8 +1,3 @@
-Berikut adalah file README.md yang telah disesuaikan untuk proyek Encryption & Decryption Tools CLI milikmu. File ini ditulis dalam format Markdown agar mudah dibaca di GitHub dan platform lainnya.
-
-
----
-
 # 🔐 Encryption & Decryption Tools CLI
 
 **Encryption & Decryption Tools CLI** adalah alat berbasis Python yang memungkinkan pengguna untuk melakukan enkripsi dan dekripsi teks menggunakan berbagai algoritma klasik dan modern. Cocok untuk pelajar, peneliti, atau siapa pun yang ingin memahami dasar-dasar kriptografi.
