@@ -48,22 +48,4 @@ Ikuti petunjuk pada menu interaktif untuk memilih metode enkripsi/dekripsi yang 
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut:
 
-Telegram: @belimbing_uwu
-
-
----
-
-### 📌 Langkah Selanjutnya
-
-1. **Simpan File README.md:**
-   - Buka editor teks favorit Anda (misalnya, Visual Studio Code, Notepad++).
-   - Salin dan tempelkan konten di atas ke dalam file baru.
-   - Simpan file dengan nama `README.md` di direktori utama proyek Anda.
-
-2. **Unggah ke GitHub:**
-   - Jika Anda belum memiliki repositori di GitHub, buatlah satu.
-   - Unggah file `README.md` bersama dengan file proyek lainnya.
-   - GitHub akan secara otomatis menampilkan konten `README.md` di halaman utama repositori Anda.
-
-Jika Anda memerlukan bantuan lebih lanjut dalam proses ini atau ingin menambahkan fitur tambahan ke dalam proyek, jangan ragu untuk bertanya!0
-
+telegram : @sphinxz25
